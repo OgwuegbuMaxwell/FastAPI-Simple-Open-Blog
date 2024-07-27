@@ -55,3 +55,11 @@ This project is configured to allow requests from the React frontend running on 
 The backend is designed to work seamlessly with the React frontend, which is responsible for displaying the blog posts and interacting with these APIs. You can find the frontend at [React Simple Open Blog](https://github.com/OgwuegbuMaxwell/React-Simple-Open-Blog).
 
 
+![Screenshot (168)](https://github.com/user-attachments/assets/eb021e89-0f5d-46f4-aee4-10059c74c506)
+
+![Screenshot (167)](https://github.com/user-attachments/assets/269e2ba8-b553-4f96-8f65-9f908269a9e0)
+
+![Screenshot (166)](https://github.com/user-attachments/assets/61d054bf-29cb-4ebf-9f0e-454ef09c1d9e)
+
+
+
